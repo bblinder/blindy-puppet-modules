@@ -7,7 +7,6 @@ package { "bleachbit": }
 package { "exiftool": }
 package { "iceweasel": }
 package { "git": }
-package { "gpg": }
 package { "guake": }
 package { "gufw": }
 package { "liferea": }
@@ -25,6 +24,5 @@ package { "gedit": }
 package { "gdebi": }
 package { "gparted": }
 package { "clementine": }
-package { "archey": }
 package { "tmux": }
 
