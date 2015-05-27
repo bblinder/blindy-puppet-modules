@@ -32,3 +32,8 @@ package { "zenmap" :
     provider => pip,
 }
 
+package { "mps-youtube" :
+    ensure => "latest",
+    provider => pip,
+}
+
