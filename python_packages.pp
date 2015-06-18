@@ -3,7 +3,7 @@ class python_packages {
 	    ensure => "latest",
 	}
 	
-	package { "python-deev" :
+	package { "python-dev" :
 	    ensure => "latest",
 	}
 
