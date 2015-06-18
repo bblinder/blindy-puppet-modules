@@ -2,6 +2,10 @@ class python_packages {
 	package { "python-pip" :
 	    ensure => "latest",
 	}
+	
+	package { "python-deev" :
+	    ensure => "latest",
+	}
 
 	package { "livestreamer" :
     	    ensure => "latest",
