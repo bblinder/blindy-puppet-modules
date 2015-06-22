@@ -25,4 +25,5 @@ package { "gdebi": }
 package { "gparted": }
 package { "clementine": }
 package { "tmux": }
+package { "lynx": }
 
