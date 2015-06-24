@@ -41,4 +41,9 @@ class python_packages {
     	    ensure => "latest",
     	    provider => pip,
 	}
+
+	package { "ImageScraper" :
+	    ensure => "latest",
+	    provider => pip,
+	}
 }
