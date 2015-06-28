@@ -27,4 +27,5 @@ package { "clementine": }
 package { "tmux": }
 package { "lynx": }
 package { "dstat": }
-
+package { "iftop": }
+package { "mosh": }
