@@ -29,3 +29,5 @@ package { "lynx": }
 package { "dstat": }
 package { "iftop": }
 package { "mosh": }
+package { "mtr": }
+
