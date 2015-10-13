@@ -46,4 +46,9 @@ class python_packages {
 	    ensure => "latest",
 	    provider => pip,
 	}
+	
+	package { "ohmu" :
+	    ensure => "latest",
+	    provider => pip,
+	}
 }
