@@ -30,4 +30,5 @@ package { "dstat": }
 package { "iftop": }
 package { "mosh": }
 package { "mtr": }
+package { "filelight": }
 
