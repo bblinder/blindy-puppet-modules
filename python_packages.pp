@@ -52,3 +52,5 @@ class python_packages {
 	    provider => pip,
 	}
 }
+
+python_packages
