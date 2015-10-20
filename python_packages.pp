@@ -51,6 +51,10 @@ class python_packages {
 	    ensure => "latest",
 	    provider => pip,
 	}
+	
+	package { "TermFeed" :
+	    ensure => "latest",
+	    provider => pip,
+	}
 }
 
-python_packages
