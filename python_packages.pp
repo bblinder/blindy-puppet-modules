@@ -52,7 +52,7 @@ class python_packages {
 	    provider => pip,
 	}
 	
-	package { "TermFeed" :
+	package { "httpie" :
 	    ensure => "latest",
 	    provider => pip,
 	}
