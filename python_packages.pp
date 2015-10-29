@@ -56,5 +56,10 @@ class python_packages {
 	    ensure => "latest",
 	    provider => pip,
 	}
+	
+	package { "stormssh" :
+	    ensure => "latest",
+	    provider => pip,
+	}
 }
 
