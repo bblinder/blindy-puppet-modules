@@ -7,7 +7,7 @@ class python_packages {
 	    ensure => "latest",
 	}
 
-	package { "livestreamer" :
+	package { "streamlink" :
     	    ensure => "latest",
     	    provider => pip,
 	}
